@@ -1,0 +1,7 @@
+spring:
+  main:
+    web-application-type: none
+
+  cloud:
+    function:
+      definition: hello
