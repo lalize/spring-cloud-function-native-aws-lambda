@@ -1,4 +1,4 @@
-# 소개
+# 개요
 
 Spring Cloud Function을 Spring Native로 빌드하여 AWS Lambda에 배포할 수 있도록 템플릿을 제공합니다. 이를 통해 애플리케이션의 실행 시간과 메모리 사용량을 최적화할 수 있습니다.
 
